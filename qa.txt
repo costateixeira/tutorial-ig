@@ -1,0 +1,14 @@
+﻿BeMedicationSchedule : Validation Results
+=========================================
+
+err = 1, warn = 0, info = 0
+IG Publisher Version: 1.1.73
+Generated Wed Jun 09 18:53:44 UTC 2021. FHIR version 4.0.1 for hl7.be.fhir.med-sched#0.1.0-test (canonical = https://hl7belgium.org/fhir/med-sched)
+
+ Build Errors : 0 / 0 / 0
+ /github/workspace/input/med-sched : 1 / 0 / 1
+</table>
+== n/a ==
+== /github/workspace/input/med-sched.xml ==
+INFORMATION: ImplementationGuide/hl7.be.fhir.med-sched: ImplementationGuide: Validate resource against profile http://hl7.org/fhir/StructureDefinition/ImplementationGuide
+ERROR: ImplementationGuide/hl7.be.fhir.med-sched: ImplementationGuide.definition: ImplementationGuide.definition.resource: minimum required = 1, but only found 0 (from http://hl7.org/fhir/StructureDefinition/ImplementationGuide)
