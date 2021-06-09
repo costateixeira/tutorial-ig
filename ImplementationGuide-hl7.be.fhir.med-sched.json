@@ -11,7 +11,7 @@
   "title": "Medication Schedule Implementation Guide",
   "status": "draft",
   "experimental": false,
-  "date": "2021-06-09T18:53:38+00:00",
+  "date": "2021-06-09T18:56:09+00:00",
   "publisher": "HL7 Belgium",
   "contact": [
     {
@@ -337,6 +337,11 @@
           "nameUrl": "index.html",
           "title": "MyIG Home Page",
           "generation": "html"
+        },
+        {
+          "nameUrl": "scope.html",
+          "title": "Functional Scope",
+          "generation": "markdown"
         },
         {
           "nameUrl": "downloads.html",

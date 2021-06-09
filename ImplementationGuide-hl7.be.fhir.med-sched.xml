@@ -12,7 +12,7 @@
   <title value="Medication Schedule Implementation Guide"/>
   <status value="draft"/>
   <experimental value="false"/>
-  <date value="2021-06-09T18:53:38+00:00"/>
+  <date value="2021-06-09T18:56:09+00:00"/>
   <publisher value="HL7 Belgium"/>
   <contact>
     <telecom>
@@ -215,6 +215,11 @@
         <nameUrl value="index.html"/>
         <title value="MyIG Home Page"/>
         <generation value="html"/>
+      </page>
+      <page>
+        <nameUrl value="scope.html"/>
+        <title value="Functional Scope"/>
+        <generation value="markdown"/>
       </page>
       <page>
         <nameUrl value="downloads.html"/>

@@ -1,6 +1,6 @@
 {
   "version": "0.1.0-test",
   "fhirVersion": "[4.0.1]",
-  "date": "20210609185317",
+  "date": "20210609185541",
   "name": "hl7.be.fhir.med-sched"
 }
